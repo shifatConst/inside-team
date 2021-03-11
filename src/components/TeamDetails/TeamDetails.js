@@ -20,7 +20,7 @@ const TeamDetails = () => {
             .then(res => res.json())
             .then(data => setTeamDetail(data.teams[0]))
     }, [id]);
-    const { strTeam, intFormedYear, strCountry, strSport, strGender, strTeamBanner, strTeamBadge, strDescriptionEN, strFacebook, strTwitter, strYoutube } = teamDetail;
+    const { strTeam, intFormedYear, strCountry, strSport, strGender, strTeamBanner, strDescriptionEN, strFacebook, strTwitter, strYoutube } = teamDetail;
 
     //conditional rendering 
     let gender = strGender;
