@@ -1,0 +1,14 @@
+.team-logo img{
+    height: 100px;
+    width: 100px;
+    /* border-radius: 50%; */
+}
+.team-container{
+    background-color: #214252;
+    color: white;
+}
+.explore-btn{
+    background-color: #f8bd7f;
+    padding: 5px;
+    border-radius: 5px;
+}

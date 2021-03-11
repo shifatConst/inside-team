@@ -1,0 +1,13 @@
+.male-female-image img{
+    height: auto;
+    width: 100%;
+}
+.team-info{
+    background-color: #214252;
+    color: white;
+    border-radius: 15px;
+}
+.social-icon-resize img{
+    height: 50px;
+    width: 50px;
+}
