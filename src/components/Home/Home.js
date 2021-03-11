@@ -27,12 +27,6 @@ const Home = () => {
                     }
                 </div>
             </div>
-            {/* <h3 className="container text-center m-4 ">Total Team:{teams.length}</h3>
-            <div className="container row">
-                {
-                    teams.map(team => <AllTeams team={team}></AllTeams>)
-                }
-            </div> */}
         </div>
     );
 };

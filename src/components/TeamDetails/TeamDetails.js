@@ -49,18 +49,6 @@ const TeamDetails = () => {
                     </div>
                 </div>
             </div>
-            {/* <div className="row p-5 m-3 team-info">
-                <div className="col-sm-6 align-self-center border">
-                    <h2>{strTeam}</h2>
-                    <p> <FontAwesomeIcon icon={faMapMarker} /> Founded: {intFormedYear}</p>
-                    <h4> <FontAwesomeIcon icon={faFlag} /> Country: {strCountry}</h4>
-                    <h4> <FontAwesomeIcon icon={faVolleyballBall} /> SportsType: {strSport}</h4>
-                    <h4> <FontAwesomeIcon icon={faMars} /> Gender: {strGender}</h4>
-                </div>
-                <div className="col-sm-6 align-self-center border male-female-image">
-                    <img src={malePic} alt="" />
-                </div>
-            </div> */}
             <div className="container mt-3 p-3 border">
                 <p>{strDescriptionEN}</p>
             </div>
